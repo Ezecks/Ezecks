@@ -1,9 +1,10 @@
-- Hi, I’m @Ezecks
-- I’m interested in do discords bots, for evryhing you need
-- I’m currently learning Game maker studio 2
-- You can contact me on discord: Ezecks#0205
-
-<!---
-Ezecks/Ezecks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there, I'm Ezecks
+## I'm a Discord bots developer
+- I'm currently working only on discord bots
+- I'm learning about game development
+### Contact me:
+You can send me a message on my discord Ezecks#0205
+<br />
+### Languages and tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
